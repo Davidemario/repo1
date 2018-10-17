@@ -1,0 +1,26 @@
+{
+  "name": "repo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node client.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davidemario/repo1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davidemario/repo1/issues"
+  },
+  "homepage": "https://github.com/Davidemario/repo1#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "node-fetch": "^2.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
